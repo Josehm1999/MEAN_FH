@@ -1,1 +1,1 @@
-"totally different content to merge later. This is branch main. This is a new branch error "
+"totally different content to merge later. This is branch main. This is a new branch error 2"
