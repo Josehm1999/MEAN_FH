@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"totally different content to merge later. This is branch main. This is a new branch error 2"
-=======
-"This text will cause a merge conflict. This is branch b. New merge error"
->>>>>>> 
+"This text will cause a merge conflict. This is branch b. New merge error 2"
