@@ -1,1 +1,0 @@
-"This text will cause a merge conflict. This is branch b. New merge error 2"
